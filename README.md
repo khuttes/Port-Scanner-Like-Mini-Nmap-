@@ -47,7 +47,7 @@ Basic scanning process:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Port-Scanner-Like-Mini-Nmap.git
+git clone https://github.com/khuttes/Port-Scanner-Like-Mini-Nmap.git
 
 Navigate to the project directory:
 
